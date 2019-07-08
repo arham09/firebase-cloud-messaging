@@ -2,11 +2,12 @@
 ![](https://img.shields.io/badge/Code%20Style-Standard-yellow.svg)
 ![](https://img.shields.io/badge/Dependencies-Express-green.svg)
 ![](https://img.shields.io/badge/Dependencies-Amqplib-green.svg)
+![](https://img.shields.io/badge/Dependencies-Firebase-admin-green.svg)
 ![](https://img.shields.io/badge/License-Beerware-yellowgreen.svg)
 
 ## Overview
 ```
-This is created to learn about Message Broker system and Firebase Cloud Messaging.
+This repository is created to learn about Message Broker system and Firebase Cloud Messaging.
 ```
 
 ## Postman Documentation
