@@ -1,0 +1,14 @@
+# file ignore commit to git
+
+*.log
+npm-debug*
+node_modules
+.DS_Store
+*_BASE_*
+*_BACKUP_*
+*_LOCAL_*
+*_REMOTE_*
+*-lock.json
+*.lock
+.env
+ecosystem.json
