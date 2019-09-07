@@ -21,7 +21,7 @@ exports.pushDevices = async (data) => {
 
     return response
   } catch (error) {
-    return error
+    throw new Error(error)
   }
 }
 
@@ -43,6 +43,6 @@ exports.pushTopics = async (data) => {
 
     return response
   } catch (error) {
-    return error
+    throw new Error(error)
   }
 }
