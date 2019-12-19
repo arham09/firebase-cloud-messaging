@@ -39,7 +39,7 @@ exports.pushTopics = async (data) => {
       }
     }
 
-    const response = admin.messaging().sendToTopic(data.topic, payload)
+    const response = await admin.messaging().sendToTopic(data.topic, payload)
 
     return response
   } catch (error) {
